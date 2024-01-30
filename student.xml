@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<student>
+<info>
+ <rno>101</rno>
+<name>om</name>
+<per>55</per>
+</info>
+<info>
+<rno>102</rno>
+<name>sai</name>
+<per>66</per>
+</info>
+<info>
+ <rno>103</rno>
+<name>sai</name>
+<per>77</per>
+</info>
+<info>
+ <rno>104</rno>
+<name>aman</name>
+<per>88</per>
+</info>
+</student>

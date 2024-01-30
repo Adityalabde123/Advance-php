@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="xml_and_css.css"?> 
+<college>
+<student>
+<rno>101</rno>
+<name>aditya</name>
+<per>90</per>
+</student>
+<student>
+<rno>102</rno>
+<name>om</name>
+<per>80</per>
+</student>
+</college>

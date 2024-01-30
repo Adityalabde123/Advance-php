@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<movie>
+<category type="action">
+<movietitle>hanuman</movietitle>
+<actorname>aditya</actorname>
+<releaseyear>2024</releaseyear>
+</category>
+
+<category type="horror">
+<movietitle>annabella</movietitle>
+<actorname>adward</actorname>
+<releaseyear>2020</releaseyear>
+</category>
+
+<category type="action">
+<movietitle>fast and furious</movietitle>
+<actorname>vin diseal</actorname>
+<releaseyear>2022</releaseyear>
+</category>
+
+</movie>
